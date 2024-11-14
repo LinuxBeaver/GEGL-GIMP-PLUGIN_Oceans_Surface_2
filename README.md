@@ -4,7 +4,7 @@ My fun remake on the original Ocean's surface plugin found here. This is just a 
 
 https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Oceans_Surface
 
-![image preview](previews/1.png)
+![image preview](1.png)
 
 
 ## Directory to put Binaries (They do NOT go in the normal plugins folder)
